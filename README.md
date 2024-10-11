@@ -1,0 +1,3 @@
+- Hi, I'm Crab, a man from taiwan.
+- I'm a beginner to coding.
+- English is not my mother tongue, so if you see any spelling mistake, it's because I'm not familiar with English.
